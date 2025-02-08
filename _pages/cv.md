@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](/files/CV_Aayush.pdf). (Last updated 24th August 2024)
+You can download my CV [here](/files/Curriculum_Vitae.pdf). (Last updated 7th February 2025)
 
-<iframe src="https://aayush2003.github.io/files/CV_Aayush.pdf" width="800" height="800"> </iframe>
+<iframe src="https://aayush2003.github.io/files/Curriculum_Vitae.pdf" width="800" height="800"> </iframe>
